@@ -1,0 +1,101 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<head>
+    <title>Sign Up | By Code Info</title>
+    <link rel="stylesheet" href="Css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="signup-box">
+      <h1>Sign Up</h1>
+      <h4>It's free and only takes a minute</h4>
+      <form>
+        <label>Username</label>
+        <input type="text" placeholder="" />
+        <label>Email</label>
+        <input type="email" placeholder="" />
+        <label>Password</label>
+        <input type="password" placeholder="" />
+        <label>Confirm Password</label>
+        <input type="password" placeholder="" />
+        <input type="button" value="Submit" />
+      </form>
+      <p>
+        By clicking the Sign Up button,you agree to our <br />
+        <a href="#">Terms and Condition</a> and <a href="#">Policy Privacy</a>
+      </p>
+    </div>
+    <p class="para-2">
+      Already have an account? <a href="login.html">Login here</a>
+    </p>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Login | By Code Info</title>
+    <link rel="stylesheet" href="Css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="login-box">
+      <h1>Login</h1>
+      <form>
+        <label>Email</label>
+        <input type="email" placeholder="" />
+        <label>Password</label>
+        <input type="password" placeholder="" />
+        <input type="button" value="Submit" />
+      </form>
+    </div>
+    <p class="para-2">
+      Don't have an account? <a href="signup.html">Sign Up Here</a>
+    </p>
+  </body>
+
+<div>
+    <span id="txtWinrate" style='position: absolute; top: 70px; left: 150px; width: 120px; text-align:left;'>Winrate: NA</span>
+    <span id="txtStreak" style='position: absolute; top: 70px; right: 150px; width: 100px; text-align:right;'>Win streak: 0</span>
+    <span id="txtNetRating">RP Net Change: 0</span>
+</div>
+<br />
+<br />
+
+<div class="text-center">
+    <h1 class="display-4">Select your match results below.</h1>
+    <button type="button" class="Button" onclick="winClick(); toggleSubmit()">Win</button>
+    <button type="button" class="Button" onclick="lossClick(); toggleSubmit()">Loss</button>
+    <button type="button" class="Button" onclick="drawClick(); toggleSubmit()">Draw</button>
+</div>
+
+<div id="rpinput" style='display:none; margin:auto; width:420px'>
+    <span id="txtError"></span>
+    <label for="rpinput">Enter your total ranked points: </label>
+    <input type="text" name="rpinput" id="userinput">
+    <button type="submit" class="Submit" onclick="submitClick(); calculateRPNet()">Submit</button>
+</div>
+
+<style>
+.Button {
+  margin: 25px 10px 20px 30px;
+  width: 350px;
+  line-height: 150px;
+  font-size: 36px;
+}
+.Submit{
+    margin: 0 auto;
+    width: 100px;
+    display: block;
+}
+</style>

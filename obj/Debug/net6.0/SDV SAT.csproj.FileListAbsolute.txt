@@ -1,0 +1,26 @@
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\appsettings.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.staticwebassets.runtime.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.exe
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.deps.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.runtimeconfig.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.dll
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\ref\SDV SAT.dll
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\bin\Debug\net6.0\SDV SAT.pdb
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.AssemblyInfo.cs
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.RazorAssemblyInfo.cache
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.RazorAssemblyInfo.cs
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\scopedcss\bundle\SDV SAT.styles.css
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\scopedcss\projectbundle\SDV SAT.bundle.scp.css
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.dll
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\ref\SDV SAT.dll
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.pdb
+C:\Users\lucad\source\repos\SDV SAT\SDV SAT\obj\Debug\net6.0\SDV SAT.genruntimeconfig.cache
